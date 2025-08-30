@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=sebastian-gregoricchio&color=orange&label=PROFILE+VIEWS) ![https://orcid.org/0000-0001-9209-5403](https://orcid.org/sites/default/files/images/orcid_16x16.png) [0000-0001-9209-5403](https://orcid.org/0000-0001-9209-5403)
+![](https://komarev.com/ghpvc/?username=sebastian-gregoricchio&color=orange&label=PROFILE+VIEWS) [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--9209--5403-green.svg)](https://orcid.org/0000-0001-9209-5403)
 
 # Sebastian Gregoricchio, Ph.D. 
 Molecular and computational biologist at the Netherlands Cancer Institute (Amsterdam, The Netherlands).
